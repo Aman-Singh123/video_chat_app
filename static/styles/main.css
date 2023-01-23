@@ -98,17 +98,17 @@ body {
 .video-player > *{
   border-radius: 5px;
 }
-.username-wrapper{
-  position:absolute;
+/* .username-wrapper{
+  position:relative;
   top: 10px;
-  left: 10px;
+  left: 20px;
   z-index: 9999;
   background-color: rgba(0, 0, 0, 0.3);
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 10px;
   font-size: 14px;
   color: #fff;
-}
+} */
 
 
 @media screen and (max-width:1650px) {
